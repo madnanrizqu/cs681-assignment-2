@@ -7,11 +7,11 @@ For each dataset:
             + hidden layer with Relu (DONE)
             + output with sigmoid (DONE)
             + use binary cross entropy (DONE)
-            + init weights with appropriate method
-            + compare with/without early stopping
-            + compare with/without dropout (DONE with)
-            + compare with/without regularization
-            + compare with/without batch normalization (DONE with)
+            + init weights with appropriate method (DONE)
+            + compare with/without early stopping (DONE)
+            + compare with/without dropout (DONE)
+            + compare with/without regularization (DONE)
+            + compare with/without batch normalization (DONE)
         - evaluation
             + collect accuracy, precision, recall and F1 Score (DONE accuracy)
             + visualize using confusion matrices and plots
