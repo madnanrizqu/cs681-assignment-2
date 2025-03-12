@@ -1,6 +1,7 @@
 - Use pretrained embeddings
 
 <!-- most news are done. while imdb waiting for use pretrained embeddings later to faster experiment speed -->
+<!-- below all DONE is only for news.ipynb -->
 For each dataset:
     For each embedding method:
         - Change to use ANN with tensorflow
@@ -14,7 +15,7 @@ For each dataset:
             + compare with/without regularization (DONE)
             + compare with/without batch normalization (DONE)
         - evaluation
-            + collect accuracy, precision, recall and F1 Score (IN PROGRESS)
+            + collect accuracy, precision, recall and F1 Score (DONE)
             + visualize using confusion matrices and plots
 
 - compare results of different embeddings methods. reason why some perform better 
