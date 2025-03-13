@@ -1,4 +1,4 @@
-- Use pretrained embeddings
+- Use pretrained embeddings (IP)
 
 <!-- most news are done. while imdb waiting for use pretrained embeddings later to faster experiment speed -->
 <!-- below all DONE is only for news.ipynb -->
