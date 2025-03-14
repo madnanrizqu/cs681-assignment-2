@@ -1,4 +1,3 @@
-<!-- below all DONE is only for news.ipynb -->
 - Use pretrained embeddings (DONE)
 
 For each dataset:
