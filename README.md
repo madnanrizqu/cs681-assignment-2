@@ -1,6 +1,6 @@
 # Description
 
-This repo is about exploring vectorization effects on text classification machine learning task
+This repo is about exploring vectorization effects on text classification using artificial neural networks
 
 ## How to run
 
